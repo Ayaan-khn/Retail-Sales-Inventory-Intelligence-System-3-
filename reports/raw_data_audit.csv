@@ -1,0 +1,10 @@
+table_name,rows,columns,duplicate_rows,columns_with_nulls,total_null_values,null_detail,data_types
+brands,9,2,0,0,0,None,brand_id: int64; brand_name: str
+categories,7,2,0,0,0,None,category_id: int64; category_name: str
+customers,1445,9,0,1,1267,phone: 1267,customer_id: int64; first_name: str; last_name: str; phone: string; email: string; street: str; city: str; state: str; zip_code: string
+orders,1615,8,0,1,170,shipped_date: 170,order_id: int64; customer_id: int64; order_status: int64; order_date: str; required_date: str; shipped_date: str; store_id: int64; staff_id: int64
+order_items,4722,6,0,0,0,None,order_id: int64; item_id: int64; product_id: int64; quantity: int64; list_price: float64; discount: float64
+products,321,6,0,0,0,None,product_id: int64; product_name: str; brand_id: int64; category_id: int64; model_year: int64; list_price: float64
+staffs,10,8,0,1,1,manager_id: 1,staff_id: int64; first_name: str; last_name: str; email: string; phone: string; active: int64; store_id: int64; manager_id: float64
+stocks,939,3,0,0,0,None,store_id: int64; product_id: int64; quantity: int64
+stores,3,8,0,0,0,None,store_id: int64; store_name: str; phone: string; email: string; street: str; city: str; state: str; zip_code: string

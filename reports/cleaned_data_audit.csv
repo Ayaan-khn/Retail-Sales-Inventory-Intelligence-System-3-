@@ -1,0 +1,10 @@
+table_name,rows,columns,duplicate_rows,columns_with_nulls,total_null_values,null_detail,data_types
+brands,9,2,0,0,0,None,brand_id: int64; brand_name: string
+categories,7,2,0,0,0,None,category_id: int64; category_name: string
+customers,1445,11,0,1,1267,phone: 1267,customer_id: int64; first_name: string; last_name: string; phone: string; email: string; street: string; city: string; state: string; zip_code: string; customer_name: string; phone_available: bool
+orders,1615,18,0,2,340,shipped_date: 170; shipping_days: 170,order_id: int64; customer_id: int64; order_status: int64; order_date: datetime64[us]; required_date: datetime64[us]; shipped_date: datetime64[us]; store_id: int64; staff_id: int64; order_status_label: str; is_completed: bool; is_shipped: bool; required_lead_days: int64; shipping_days: float64; is_late: bool; order_year: int32; order_month: int32; order_month_name: str; order_month_start: datetime64[s]
+order_items,4722,11,0,0,0,None,order_id: int64; item_id: int64; product_id: int64; quantity: int64; list_price: float64; discount: float64; gross_sales: float64; discount_amount: float64; net_sales: float64; unit_net_price: float64; order_line_key: str
+products,321,7,0,0,0,None,product_id: int64; product_name: string; brand_id: int64; category_id: int64; model_year: int64; list_price: float64; product_name_clean: string
+staffs,10,10,0,1,1,manager_id: 1,staff_id: int64; first_name: string; last_name: string; email: string; phone: string; active: int64; store_id: int64; manager_id: float64; staff_name: string; active_flag: bool
+stocks,939,5,0,0,0,None,store_id: int64; product_id: int64; quantity: int64; stock_status: str; is_low_stock: bool
+stores,3,8,0,0,0,None,store_id: int64; store_name: string; phone: string; email: string; street: string; city: string; state: string; zip_code: string

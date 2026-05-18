@@ -1,0 +1,11 @@
+child_table,child_key,parent_table,parent_key,missing_key_count,status,missing_key_sample
+products,brand_id,brands,brand_id,0,Pass,None
+products,category_id,categories,category_id,0,Pass,None
+orders,customer_id,customers,customer_id,0,Pass,None
+orders,store_id,stores,store_id,0,Pass,None
+orders,staff_id,staffs,staff_id,0,Pass,None
+order_items,order_id,orders,order_id,0,Pass,None
+order_items,product_id,products,product_id,0,Pass,None
+stocks,store_id,stores,store_id,0,Pass,None
+stocks,product_id,products,product_id,0,Pass,None
+staffs,store_id,stores,store_id,0,Pass,None

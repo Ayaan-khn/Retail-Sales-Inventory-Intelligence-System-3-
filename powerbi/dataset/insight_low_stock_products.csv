@@ -1,0 +1,191 @@
+store_id,product_id,quantity,stock_status,is_low_stock,product_name,brand_name,category_name,list_price,inventory_value,store_name,state
+1,6,0,Out of Stock,True,Surly Ice Cream Truck Frameset - 2016,Surly,Mountain Bikes,469.99,0.0,Santa Cruz Bikes,CA
+1,8,0,Out of Stock,True,Trek Remedy 29 Carbon Frameset - 2016,Trek,Mountain Bikes,1799.99,0.0,Santa Cruz Bikes,CA
+1,32,0,Out of Stock,True,Trek Farley Alloy Frameset - 2017,Trek,Mountain Bikes,469.99,0.0,Santa Cruz Bikes,CA
+1,42,0,Out of Stock,True,Trek Fuel EX 5 27.5 Plus - 2017,Trek,Mountain Bikes,2299.99,0.0,Santa Cruz Bikes,CA
+1,92,0,Out of Stock,True,Haro Shredder 20 - 2017,Haro,Children Bicycles,209.99,0.0,Santa Cruz Bikes,CA
+1,160,0,Out of Stock,True,Trek Emonda SLR 6 - 2018,Trek,Road Bikes,4499.99,0.0,Santa Cruz Bikes,CA
+1,163,0,Out of Stock,True,Surly Pack Rat - 2018,Surly,Road Bikes,1349.0,0.0,Santa Cruz Bikes,CA
+1,168,0,Out of Stock,True,Surly Straggler - 2018,Surly,Road Bikes,1549.0,0.0,Santa Cruz Bikes,CA
+1,246,0,Out of Stock,True,Electra Townie Original 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,639.99,0.0,Santa Cruz Bikes,CA
+1,302,0,Out of Stock,True,Electra Townie Original 1 - 2018,Electra,Comfort Bicycles,449.99,0.0,Santa Cruz Bikes,CA
+2,22,0,Out of Stock,True,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Children Bicycles,269.99,0.0,Baldwin Bikes,NY
+2,47,0,Out of Stock,True,Trek Remedy 9.8 - 2017,Trek,Mountain Bikes,5299.99,0.0,Baldwin Bikes,NY
+2,91,0,Out of Stock,True,Trek Precaliber 24 (21-Speed) - Girls - 2017,Trek,Children Bicycles,349.99,0.0,Baldwin Bikes,NY
+2,158,0,Out of Stock,True,Trek CrossRip 1 - 2018,Trek,Road Bikes,959.99,0.0,Baldwin Bikes,NY
+2,175,0,Out of Stock,True,Trek Domane SLR Frameset - 2018,Trek,Road Bikes,3199.99,0.0,Baldwin Bikes,NY
+2,184,0,Out of Stock,True,Trek Domane SL 6 Disc - 2018,Trek,Road Bikes,3499.99,0.0,Baldwin Bikes,NY
+2,192,0,Out of Stock,True,Electra Townie Go! 8i - 2017/2018,Electra,Electric Bikes,2599.99,0.0,Baldwin Bikes,NY
+2,198,0,Out of Stock,True,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,2999.99,0.0,Baldwin Bikes,NY
+2,251,0,Out of Stock,True,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,2999.99,0.0,Baldwin Bikes,NY
+2,299,0,Out of Stock,True,Electra Townie Original 21D - 2018,Electra,Comfort Bicycles,559.99,0.0,Baldwin Bikes,NY
+3,3,0,Out of Stock,True,Surly Wednesday Frameset - 2016,Surly,Mountain Bikes,999.99,0.0,Rowlett Bikes,TX
+3,59,0,Out of Stock,True,Trek Domane S 5 Disc - 2017,Trek,Road Bikes,2599.99,0.0,Rowlett Bikes,TX
+3,220,0,Out of Stock,True,Electra Cruiser 1 Ladies' - 2018,Electra,Cruisers Bicycles,269.99,0.0,Rowlett Bikes,TX
+3,259,0,Out of Stock,True,Electra Amsterdam Royal 8i Ladies - 2018,Electra,Cruisers Bicycles,1199.99,0.0,Rowlett Bikes,TX
+3,313,0,Out of Stock,True,Electra Townie Original 1 Ladies' - 2018,Electra,Comfort Bicycles,449.99,0.0,Rowlett Bikes,TX
+1,149,1,Low Stock,True,Trek Domane SLR 8 Disc - 2018,Trek,Road Bikes,7499.99,7499.99,Santa Cruz Bikes,CA
+3,149,1,Low Stock,True,Trek Domane SLR 8 Disc - 2018,Trek,Road Bikes,7499.99,7499.99,Rowlett Bikes,TX
+2,169,1,Low Stock,True,Trek Emonda SLR 8 - 2018,Trek,Road Bikes,6499.99,6499.99,Baldwin Bikes,NY
+1,58,1,Low Stock,True,Trek Madone 9.2 - 2017,Trek,Road Bikes,4999.99,4999.99,Santa Cruz Bikes,CA
+1,186,1,Low Stock,True,Trek CrossRip+ - 2018,Trek,Electric Bikes,4499.99,4499.99,Santa Cruz Bikes,CA
+2,202,1,Low Stock,True,Trek Powerfly 5 Women's - 2018,Trek,Electric Bikes,3499.99,3499.99,Baldwin Bikes,NY
+3,174,1,Low Stock,True,Trek Domane SLR Disc Frameset - 2018,Trek,Road Bikes,3199.99,3199.99,Rowlett Bikes,TX
+1,198,1,Low Stock,True,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,2999.99,2999.99,Santa Cruz Bikes,CA
+3,209,1,Low Stock,True,Trek Crockett 7 Disc - 2018,Trek,Cyclocross Bicycles,2999.99,2999.99,Rowlett Bikes,TX
+1,195,1,Low Stock,True,Electra Townie Go! 8i Ladies' - 2018,Electra,Electric Bikes,2599.99,2599.99,Santa Cruz Bikes,CA
+2,137,1,Low Stock,True,Heller Shagamaw GX1 - 2018,Heller,Mountain Bikes,2599.0,2599.0,Baldwin Bikes,NY
+3,152,1,Low Stock,True,Trek Domane SL 5 Disc Women's - 2018,Trek,Road Bikes,2499.99,2499.99,Rowlett Bikes,TX
+1,57,1,Low Stock,True,Trek Emonda S 5 - 2017,Trek,Road Bikes,1999.99,1999.99,Santa Cruz Bikes,CA
+2,8,1,Low Stock,True,Trek Remedy 29 Carbon Frameset - 2016,Trek,Mountain Bikes,1799.99,1799.99,Baldwin Bikes,NY
+2,60,1,Low Stock,True,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,1559.99,1559.99,Baldwin Bikes,NY
+3,151,1,Low Stock,True,Trek Domane ALR 4 Disc Women's - 2018,Trek,Road Bikes,1549.99,1549.99,Rowlett Bikes,TX
+1,132,1,Low Stock,True,Trek Procal AL Frameset - 2018,Trek,Mountain Bikes,1499.99,1499.99,Santa Cruz Bikes,CA
+2,5,1,Low Stock,True,Heller Shagamaw Frame - 2016,Heller,Mountain Bikes,1320.99,1320.99,Baldwin Bikes,NY
+3,235,1,Low Stock,True,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,899.99,899.99,Rowlett Bikes,TX
+3,256,1,Low Stock,True,Electra Townie Commute 27D - 2018,Electra,Cruisers Bicycles,899.99,899.99,Rowlett Bikes,TX
+3,45,1,Low Stock,True,Haro SR 1.2 - 2017,Haro,Mountain Bikes,869.99,869.99,Rowlett Bikes,TX
+1,215,1,Low Stock,True,Electra Queen of Hearts 3i - 2018,Electra,Cruisers Bicycles,749.99,749.99,Santa Cruz Bikes,CA
+2,167,1,Low Stock,True,Surly ECR Frameset - 2018,Surly,Road Bikes,749.99,749.99,Baldwin Bikes,NY
+2,178,1,Low Stock,True,Trek Domane AL 2 - 2018,Trek,Road Bikes,749.99,749.99,Baldwin Bikes,NY
+1,82,1,Low Stock,True,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,659.99,659.99,Santa Cruz Bikes,CA
+2,72,1,Low Stock,True,Sun Bicycles Biscayne Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,619.99,619.99,Baldwin Bikes,NY
+2,244,1,Low Stock,True,Electra Townie Original 21D Ladies' - 2018,Electra,Cruisers Bicycles,559.99,559.99,Baldwin Bikes,NY
+2,103,1,Low Stock,True,Sun Bicycles Streamway 3 - 2017,Sun Bicycles,Comfort Bicycles,551.99,551.99,Baldwin Bikes,NY
+1,44,1,Low Stock,True,Haro SR 1.1 - 2017,Haro,Mountain Bikes,539.99,539.99,Santa Cruz Bikes,CA
+3,105,1,Low Stock,True,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,533.99,533.99,Rowlett Bikes,TX
+3,280,1,Low Stock,True,Trek Superfly 24 - 2017/2018,Trek,Children Bicycles,489.99,489.99,Rowlett Bikes,TX
+1,110,1,Low Stock,True,Sun Bicycles Drifter 7 - 2017,Sun Bicycles,Comfort Bicycles,470.99,470.99,Santa Cruz Bikes,CA
+3,106,1,Low Stock,True,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Comfort Bicycles,449.99,449.99,Rowlett Bikes,TX
+1,266,1,Low Stock,True,Trek Superfly 20 - 2018,Trek,Children Bicycles,399.99,399.99,Santa Cruz Bikes,CA
+2,112,1,Low Stock,True,Trek 820 - 2018,Trek,Mountain Bikes,379.99,379.99,Baldwin Bikes,NY
+3,96,1,Low Stock,True,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,349.99,349.99,Rowlett Bikes,TX
+3,65,1,Low Stock,True,Sun Bicycles Lil Bolt Type-R - 2017,Sun Bicycles,Cruisers Bicycles,346.99,346.99,Rowlett Bikes,TX
+3,283,1,Low Stock,True,Electra Heartchya 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,319.99,319.99,Rowlett Bikes,TX
+2,272,1,Low Stock,True,Trek Precaliber 20 6-speed Boy's - 2018,Trek,Children Bicycles,289.99,289.99,Baldwin Bikes,NY
+2,13,1,Low Stock,True,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,269.99,269.99,Baldwin Bikes,NY
+1,51,2,Low Stock,True,Trek Silque SLR 8 Women's - 2017,Trek,Road Bikes,6499.99,12999.98,Santa Cruz Bikes,CA
+3,51,2,Low Stock,True,Trek Silque SLR 8 Women's - 2017,Trek,Road Bikes,6499.99,12999.98,Rowlett Bikes,TX
+3,177,2,Low Stock,True,Trek Domane SLR 6 Disc - 2018,Trek,Road Bikes,5499.99,10999.98,Rowlett Bikes,TX
+1,43,2,Low Stock,True,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,5299.99,10599.98,Santa Cruz Bikes,CA
+2,43,2,Low Stock,True,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,5299.99,10599.98,Baldwin Bikes,NY
+3,40,2,Low Stock,True,Trek Fuel EX 9.8 29 - 2017,Trek,Mountain Bikes,4999.99,9999.98,Rowlett Bikes,TX
+1,173,2,Low Stock,True,Trek Domane ALR Frameset - 2018,Trek,Road Bikes,3199.99,6399.98,Santa Cruz Bikes,CA
+1,175,2,Low Stock,True,Trek Domane SLR Frameset - 2018,Trek,Road Bikes,3199.99,6399.98,Santa Cruz Bikes,CA
+1,199,2,Low Stock,True,Electra Townie Commute Go! Ladies' - 2018,Electra,Electric Bikes,2999.99,5999.98,Santa Cruz Bikes,CA
+1,251,2,Low Stock,True,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,2999.99,5999.98,Santa Cruz Bikes,CA
+2,4,2,Low Stock,True,Trek Fuel EX 8 29 - 2016,Trek,Mountain Bikes,2899.99,5799.98,Baldwin Bikes,NY
+3,187,2,Low Stock,True,Trek Neko+ - 2018,Trek,Electric Bikes,2799.99,5599.98,Rowlett Bikes,TX
+1,31,2,Low Stock,True,Surly Wednesday - 2017,Surly,Mountain Bikes,1632.99,3265.98,Santa Cruz Bikes,CA
+2,151,2,Low Stock,True,Trek Domane ALR 4 Disc Women's - 2018,Trek,Road Bikes,1549.99,3099.98,Baldwin Bikes,NY
+1,39,2,Low Stock,True,Trek Stache 5 - 2017,Trek,Mountain Bikes,1499.99,2999.98,Santa Cruz Bikes,CA
+3,48,2,Low Stock,True,Trek Emonda S 4 - 2017,Trek,Road Bikes,1499.99,2999.98,Rowlett Bikes,TX
+2,170,2,Low Stock,True,Trek CrossRip 2 - 2018,Trek,Road Bikes,1299.99,2599.98,Baldwin Bikes,NY
+2,242,2,Low Stock,True,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,699.99,1399.98,Baldwin Bikes,NY
+2,312,2,Low Stock,True,Electra Townie Commute 8D Ladies' - 2018,Electra,Comfort Bicycles,699.99,1399.98,Baldwin Bikes,NY
+3,70,2,Low Stock,True,Electra Amsterdam Original 3i - 2015/2017,Electra,Cruisers Bicycles,659.99,1319.98,Rowlett Bikes,TX
+2,26,2,Low Stock,True,Electra Townie Original 7D EQ - 2016,Electra,Comfort Bicycles,599.99,1199.98,Baldwin Bikes,NY
+2,12,2,Low Stock,True,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,549.99,1099.98,Baldwin Bikes,NY
+1,34,2,Low Stock,True,Trek Session DH 27.5 Carbon Frameset - 2017,Trek,Mountain Bikes,469.99,939.98,Santa Cruz Bikes,CA
+3,125,2,Low Stock,True,Trek Kids' Dual Sport - 2018,Trek,Mountain Bikes,469.99,939.98,Rowlett Bikes,TX
+1,17,2,Low Stock,True,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,429.0,858.0,Santa Cruz Bikes,CA
+3,288,2,Low Stock,True,Electra Straight 8 1 (20-inch) - Boy's - 2018,Electra,Children Bicycles,389.99,779.98,Rowlett Bikes,TX
+1,289,2,Low Stock,True,"Electra Superbolt 1 20"" - 2018",Electra,Children Bicycles,319.99,639.98,Santa Cruz Bikes,CA
+3,281,2,Low Stock,True,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Children Bicycles,319.99,639.98,Rowlett Bikes,TX
+3,289,2,Low Stock,True,"Electra Superbolt 1 20"" - 2018",Electra,Children Bicycles,319.99,639.98,Rowlett Bikes,TX
+1,287,2,Low Stock,True,Electra Straight 8 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,279.99,559.98,Santa Cruz Bikes,CA
+3,285,2,Low Stock,True,Electra Soft Serve 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,279.99,559.98,Rowlett Bikes,TX
+2,94,2,Low Stock,True,Haro Shredder Pro 20 - 2017,Haro,Children Bicycles,249.99,499.98,Baldwin Bikes,NY
+3,169,3,Low Stock,True,Trek Emonda SLR 8 - 2018,Trek,Road Bikes,6499.99,19499.97,Rowlett Bikes,TX
+1,140,3,Low Stock,True,Trek Remedy 9.8 27.5 - 2018,Trek,Mountain Bikes,4999.99,14999.97,Santa Cruz Bikes,CA
+2,146,3,Low Stock,True,Trek Domane SLR 6 - 2018,Trek,Road Bikes,4999.99,14999.97,Baldwin Bikes,NY
+3,140,3,Low Stock,True,Trek Remedy 9.8 27.5 - 2018,Trek,Mountain Bikes,4999.99,14999.97,Rowlett Bikes,TX
+3,205,3,Low Stock,True,Trek Super Commuter+ 8S - 2018,Trek,Electric Bikes,4999.99,14999.97,Rowlett Bikes,TX
+1,171,3,Low Stock,True,Trek Domane SL 6 - 2018,Trek,Road Bikes,3199.99,9599.97,Santa Cruz Bikes,CA
+1,172,3,Low Stock,True,Trek Domane ALR Disc Frameset - 2018,Trek,Road Bikes,3199.99,9599.97,Santa Cruz Bikes,CA
+3,175,3,Low Stock,True,Trek Domane SLR Frameset - 2018,Trek,Road Bikes,3199.99,9599.97,Rowlett Bikes,TX
+1,185,3,Low Stock,True,Trek Conduit+ - 2018,Trek,Electric Bikes,2799.99,8399.97,Santa Cruz Bikes,CA
+1,250,3,Low Stock,True,Electra Townie Go! 8i - 2017/2018,Electra,Cruisers Bicycles,2599.99,7799.969999999999,Santa Cruz Bikes,CA
+2,121,3,Low Stock,True,Surly Krampus Frameset - 2018,Surly,Mountain Bikes,2499.99,7499.969999999999,Baldwin Bikes,NY
+3,147,3,Low Stock,True,Trek Domane ALR 5 Gravel - 2018,Trek,Road Bikes,1799.99,5399.97,Rowlett Bikes,TX
+3,211,3,Low Stock,True,Surly Straggler 650b - 2018,Surly,Cyclocross Bicycles,1549.0,4647.0,Rowlett Bikes,TX
+3,5,3,Low Stock,True,Heller Shagamaw Frame - 2016,Heller,Mountain Bikes,1320.99,3962.9700000000003,Rowlett Bikes,TX
+2,180,3,Low Stock,True,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,919.99,2759.9700000000003,Baldwin Bikes,NY
+1,261,3,Low Stock,True,Electra Townie Balloon 7i EQ - 2018,Electra,Cruisers Bicycles,899.99,2699.9700000000003,Santa Cruz Bikes,CA
+3,35,3,Low Stock,True,Sun Bicycles Spider 3i - 2017,Sun Bicycles,Mountain Bikes,832.99,2498.9700000000003,Rowlett Bikes,TX
+3,300,3,Low Stock,True,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,799.99,2399.9700000000003,Rowlett Bikes,TX
+3,73,3,Low Stock,True,Sun Bicycles Brickell Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,749.99,2249.9700000000003,Rowlett Bikes,TX
+3,236,3,Low Stock,True,Electra Morningstar 3i Ladies' - 2018,Electra,Cruisers Bicycles,749.99,2249.9700000000003,Rowlett Bikes,TX
+1,70,3,Low Stock,True,Electra Amsterdam Original 3i - 2015/2017,Electra,Cruisers Bicycles,659.99,1979.97,Santa Cruz Bikes,CA
+1,245,3,Low Stock,True,Electra Townie Original 3i EQ - 2017/2018,Electra,Cruisers Bicycles,659.99,1979.97,Santa Cruz Bikes,CA
+3,247,3,Low Stock,True,Electra Townie Original 7D EQ - 2018,Electra,Cruisers Bicycles,599.99,1799.97,Rowlett Bikes,TX
+1,114,3,Low Stock,True,Trek Marlin 6 - 2018,Trek,Mountain Bikes,579.99,1739.97,Santa Cruz Bikes,CA
+2,105,3,Low Stock,True,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,533.99,1601.97,Baldwin Bikes,NY
+1,15,3,Low Stock,True,Electra Moto 1 - 2016,Electra,Cruisers Bicycles,529.99,1589.97,Santa Cruz Bikes,CA
+1,223,3,Low Stock,True,Electra Cruiser Lux 3i - 2018,Electra,Cruisers Bicycles,529.99,1589.97,Santa Cruz Bikes,CA
+2,17,3,Low Stock,True,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,429.0,1287.0,Baldwin Bikes,NY
+1,294,3,Low Stock,True,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,Electra,Children Bicycles,369.99,1109.97,Santa Cruz Bikes,CA
+2,281,3,Low Stock,True,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Children Bicycles,319.99,959.97,Baldwin Bikes,NY
+2,286,3,Low Stock,True,"Electra Starship 1 16"" - 2018",Electra,Children Bicycles,279.99,839.97,Baldwin Bikes,NY
+3,66,3,Low Stock,True,Sun Bicycles Revolutions 24 - 2017,Sun Bicycles,Cruisers Bicycles,250.99,752.97,Rowlett Bikes,TX
+2,275,3,Low Stock,True,Trek Precaliber 20 Girl's - 2018,Trek,Children Bicycles,229.99,689.97,Baldwin Bikes,NY
+2,268,3,Low Stock,True,Trek Kickster - 2018,Trek,Children Bicycles,159.99,479.97,Baldwin Bikes,NY
+1,203,4,Low Stock,True,Trek Powerfly 7 FS - 2018,Trek,Electric Bikes,4999.99,19999.96,Santa Cruz Bikes,CA
+2,160,4,Low Stock,True,Trek Emonda SLR 6 - 2018,Trek,Road Bikes,4499.99,17999.96,Baldwin Bikes,NY
+1,63,4,Low Stock,True,Trek Boone Race Shop Limited - 2017,Trek,Cyclocross Bicycles,3499.99,13999.96,Santa Cruz Bikes,CA
+1,184,4,Low Stock,True,Trek Domane SL 6 Disc - 2018,Trek,Road Bikes,3499.99,13999.96,Santa Cruz Bikes,CA
+2,49,4,Low Stock,True,Trek Domane SL 6 - 2017,Trek,Road Bikes,3499.99,13999.96,Baldwin Bikes,NY
+2,62,4,Low Stock,True,Trek Boone 7 - 2017,Trek,Cyclocross Bicycles,3499.99,13999.96,Baldwin Bikes,NY
+3,49,4,Low Stock,True,Trek Domane SL 6 - 2017,Trek,Road Bikes,3499.99,13999.96,Rowlett Bikes,TX
+3,62,4,Low Stock,True,Trek Boone 7 - 2017,Trek,Cyclocross Bicycles,3499.99,13999.96,Rowlett Bikes,TX
+2,185,4,Low Stock,True,Trek Conduit+ - 2018,Trek,Electric Bikes,2799.99,11199.96,Baldwin Bikes,NY
+3,121,4,Low Stock,True,Surly Krampus Frameset - 2018,Surly,Mountain Bikes,2499.99,9999.96,Rowlett Bikes,TX
+3,136,4,Low Stock,True,Trek Procaliber 6 - 2018,Trek,Mountain Bikes,1799.99,7199.96,Rowlett Bikes,TX
+3,141,4,Low Stock,True,Trek Stache 5 - 2018,Trek,Mountain Bikes,1599.99,6399.96,Rowlett Bikes,TX
+2,144,4,Low Stock,True,Trek Domane ALR 4 Disc - 2018,Trek,Road Bikes,1549.99,6199.96,Baldwin Bikes,NY
+2,211,4,Low Stock,True,Surly Straggler 650b - 2018,Surly,Cyclocross Bicycles,1549.0,6196.0,Baldwin Bikes,NY
+2,124,4,Low Stock,True,Surly Krampus - 2018,Surly,Mountain Bikes,1499.0,5996.0,Baldwin Bikes,NY
+3,217,4,Low Stock,True,Electra Straight 8 3i - 2018,Electra,Cruisers Bicycles,909.99,3639.96,Rowlett Bikes,TX
+1,214,4,Low Stock,True,Electra Tiger Shark 3i - 2018,Electra,Cruisers Bicycles,899.99,3599.96,Santa Cruz Bikes,CA
+2,235,4,Low Stock,True,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,899.99,3599.96,Baldwin Bikes,NY
+2,261,4,Low Stock,True,Electra Townie Balloon 7i EQ - 2018,Electra,Cruisers Bicycles,899.99,3599.96,Baldwin Bikes,NY
+3,254,4,Low Stock,True,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Cruisers Bicycles,749.99,2999.96,Rowlett Bikes,TX
+2,82,4,Low Stock,True,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,659.99,2639.96,Baldwin Bikes,NY
+2,78,4,Low Stock,True,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,647.99,2591.96,Baldwin Bikes,NY
+1,16,4,Low Stock,True,Electra Townie Original 7D EQ - 2016,Electra,Cruisers Bicycles,599.99,2399.96,Santa Cruz Bikes,CA
+2,224,4,Low Stock,True,Electra Cruiser Lux 7D - 2018,Electra,Cruisers Bicycles,479.99,1919.96,Baldwin Bikes,NY
+3,127,4,Low Stock,True,Surly Pack Rat Frameset - 2018,Surly,Mountain Bikes,469.99,1879.96,Rowlett Bikes,TX
+1,19,4,Low Stock,True,Pure Cycles William 3-Speed - 2016,Pure Cycles,Cruisers Bicycles,449.0,1796.0,Santa Cruz Bikes,CA
+1,69,4,Low Stock,True,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,416.99,1667.96,Santa Cruz Bikes,CA
+2,277,4,Low Stock,True,Trek Precaliber 24 21-speed Boy's - 2018,Trek,Children Bicycles,369.99,1479.96,Baldwin Bikes,NY
+2,101,4,Low Stock,True,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,339.99,1359.96,Baldwin Bikes,NY
+2,265,4,Low Stock,True,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,289.99,1159.96,Baldwin Bikes,NY
+1,220,4,Low Stock,True,Electra Cruiser 1 Ladies' - 2018,Electra,Cruisers Bicycles,269.99,1079.96,Santa Cruz Bikes,CA
+3,14,4,Low Stock,True,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,269.99,1079.96,Rowlett Bikes,TX
+1,90,4,Low Stock,True,Trek Precaliber 16 Girls - 2017,Trek,Children Bicycles,209.99,839.96,Santa Cruz Bikes,CA
+2,269,4,Low Stock,True,Trek Precaliber 12 Boy's - 2018,Trek,Children Bicycles,199.99,799.96,Baldwin Bikes,NY
+2,263,4,Low Stock,True,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,89.99,359.96,Baldwin Bikes,NY
+1,202,5,Low Stock,True,Trek Powerfly 5 Women's - 2018,Trek,Electric Bikes,3499.99,17499.949999999997,Santa Cruz Bikes,CA
+2,63,5,Low Stock,True,Trek Boone Race Shop Limited - 2017,Trek,Cyclocross Bicycles,3499.99,17499.949999999997,Baldwin Bikes,NY
+3,199,5,Low Stock,True,Electra Townie Commute Go! Ladies' - 2018,Electra,Electric Bikes,2999.99,14999.949999999999,Rowlett Bikes,TX
+3,193,5,Low Stock,True,Trek Lift+ - 2018,Trek,Electric Bikes,2799.99,13999.949999999999,Rowlett Bikes,TX
+2,55,5,Low Stock,True,Trek Domane S 6 - 2017,Trek,Road Bikes,2699.99,13499.949999999999,Baldwin Bikes,NY
+3,55,5,Low Stock,True,Trek Domane S 6 - 2017,Trek,Road Bikes,2699.99,13499.949999999999,Rowlett Bikes,TX
+1,145,5,Low Stock,True,Trek Domane ALR 5 Disc - 2018,Trek,Road Bikes,1799.99,8999.95,Santa Cruz Bikes,CA
+1,48,5,Low Stock,True,Trek Emonda S 4 - 2017,Trek,Road Bikes,1499.99,7499.95,Santa Cruz Bikes,CA
+1,180,5,Low Stock,True,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,919.99,4599.95,Santa Cruz Bikes,CA
+2,257,5,Low Stock,True,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,Electra,Cruisers Bicycles,899.99,4499.95,Baldwin Bikes,NY
+2,310,5,Low Stock,True,Electra Townie Commute 27D Ladies - 2018,Electra,Comfort Bicycles,899.99,4499.95,Baldwin Bikes,NY
+3,216,5,Low Stock,True,Electra Super Moto 8i - 2018,Electra,Cruisers Bicycles,899.99,4499.95,Rowlett Bikes,TX
+3,260,5,Low Stock,True,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,799.99,3999.95,Rowlett Bikes,TX
+1,2,5,Low Stock,True,Ritchey Timberwolf Frameset - 2016,Ritchey,Mountain Bikes,749.99,3749.95,Santa Cruz Bikes,CA
+3,242,5,Low Stock,True,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,699.99,3499.95,Rowlett Bikes,TX
+2,226,5,Low Stock,True,Electra Townie Original 21D EQ - 2017/2018,Electra,Cruisers Bicycles,679.99,3399.95,Baldwin Bikes,NY
+1,233,5,Low Stock,True,Electra Cruiser Lux Fat Tire 7D - 2018,Electra,Cruisers Bicycles,639.99,3199.95,Santa Cruz Bikes,CA
+3,244,5,Low Stock,True,Electra Townie Original 21D Ladies' - 2018,Electra,Cruisers Bicycles,559.99,2799.95,Rowlett Bikes,TX
+3,98,5,Low Stock,True,Electra Straight 8 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,489.99,2449.95,Rowlett Bikes,TX
+1,232,5,Low Stock,True,Electra Cruiser Lux 7D Ladies' - 2018,Electra,Cruisers Bicycles,479.99,2399.95,Santa Cruz Bikes,CA
+3,126,5,Low Stock,True,Surly Big Fat Dummy Frameset - 2018,Surly,Mountain Bikes,469.99,2349.95,Rowlett Bikes,TX
+3,18,5,Low Stock,True,Pure Cycles Western 3-Speed - Women's - 2015/2016,Pure Cycles,Cruisers Bicycles,449.0,2245.0,Rowlett Bikes,TX
+2,37,5,Low Stock,True,Haro Flightline One ST - 2017,Haro,Mountain Bikes,379.99,1899.95,Baldwin Bikes,NY
+2,289,5,Low Stock,True,"Electra Superbolt 1 20"" - 2018",Electra,Children Bicycles,319.99,1599.95,Baldwin Bikes,NY

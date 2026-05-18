@@ -1,0 +1,5 @@
+order_status_label,total_orders,shipped_orders,delayed_orders,avg_shipping_days
+Completed,1445,1445,458,1.9820069204152249
+Pending,62,0,0,
+Processing,63,0,0,
+Rejected,45,0,0,
