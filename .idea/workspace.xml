@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="223a566d-7109-4597-9c11-ab1aa23cf73b" name="Changes" comment="Cleaned Data V1.1" />
+    <list default="true" id="223a566d-7109-4597-9c11-ab1aa23cf73b" name="Changes" comment="Cleaned Data and Made new Processed Data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,13 +86,22 @@
       <option name="project" value="LOCAL" />
       <updated>1778836203631</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cleaned Data and Made new Processed Data">
+      <option name="closed" value="true" />
+      <created>1778841318950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778841318950</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Playing with Raw data" />
     <MESSAGE value="Cleaned Data V1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned Data V1.1" />
+    <MESSAGE value="Cleaned Data and Made new Processed Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned Data and Made new Processed Data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
